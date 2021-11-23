@@ -16,6 +16,8 @@ const format = {
 
 const rarity = [
     { key: "", val: "original" },
+    { key: "_u", val: "uncommon" },
+    { key: "_f", val: "foil" },
     { key: "_r", val: "rare" },
     { key: "_sr", val: "super rare" },
 ];
