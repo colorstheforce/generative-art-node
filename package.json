@@ -1,7 +1,7 @@
 {
   "name": "art_generator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Important: There is a new repo for this code.\r [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)",
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorstheforce/generative-art-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colorstheforce/generative-art-node/issues"
+  },
+  "homepage": "https://github.com/colorstheforce/generative-art-node#readme"
 }
