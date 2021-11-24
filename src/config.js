@@ -5,8 +5,8 @@ const layersOrder = [
     { name: 'iris', number: 3 },
     { name: 'shine', number: 1 },
     { name: 'shine', number: 1 },
-    { name: 'bottom lid', number: 3 },
-    { name: 'top lid', number: 3 },
+    { name: 'bottom lid', number: 4 },
+    { name: 'top lid', number: 4 },
 ];
   
 const format = {
