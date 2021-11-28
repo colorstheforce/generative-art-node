@@ -70,6 +70,8 @@ npm run build
 ```
 
 or Respectively, can use:
- node index.js
+ ```sh
+node index.js
+```
  
  
