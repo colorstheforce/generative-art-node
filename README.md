@@ -68,3 +68,8 @@ When you are all ready, run the following command and your outputted art will be
 ```sh
 npm run build
 ```
+
+or Respectively, can use:
+ node index.js
+ 
+ 
